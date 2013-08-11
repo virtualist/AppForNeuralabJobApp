@@ -38,11 +38,11 @@ Prikazivanje svih zapisa iz baze usera (UserInfo):
 - klikom na gumb "Show user data" aplikacija prikazuje usere u GridView kontroli
 
 Podaci svakog usera u bazi:
-ID - indentity column (int - auto increment)
-Name - ime usera koje je zaposlenik upisao - obavezno (nvarchar50)
-Email - email koji je zaposlenik upisao - obavezno (nvarchar50)
-Note - bilješka koju je zaposlenik upisao - maksimalno 50 znakova - obavezno (nvarchar50)
-Key - unique userKey - generira aplikacija (nvarchar50)
+- ID - indentity column (int - auto increment)
+- Name - ime usera koje je zaposlenik upisao - obavezno (nvarchar50)
+- Email - email koji je zaposlenik upisao - obavezno (nvarchar50)
+- Note - bilješka koju je zaposlenik upisao - maksimalno 50 znakova - obavezno (nvarchar50)
+- Key - unique userKey - generira aplikacija (nvarchar50)
 
 
 Dodatne informacije:
